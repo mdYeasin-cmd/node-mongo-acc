@@ -1,1 +1,1 @@
-# node-mongo-acc
+# Node Mongo Advanced Crash Course

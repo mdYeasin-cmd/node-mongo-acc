@@ -1,0 +1,18 @@
+{
+  "name": "lesson5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Yeasin",
+  "license": "ISC",
+  "dependencies": {
+    "movies-names": "^1.1.1",
+    "nodemon": "^3.0.1",
+    "random-fruits-name": "^1.9.7"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
